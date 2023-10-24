@@ -1,7 +1,8 @@
-[![MasterHead](https://media.tenor.com/uoMEaqaueHIAAAAC/jjk-jujutsu-kaisen.gif)]
+[![MasterHead](https://media.tenor.com/F8MAs3hQgrMAAAAC/yuta-okkotsu-yuta.gif)](https://github.com/diaznakh)
 <h1 align="center">Hi 👋, I'm Zaid Khan</h1>
-<h3 align="center">A beginner Developer Kashmir!</h3>
-<img align="right" alt="Coding" width="400" src=“https://media.tenor.com/g68GcDz33nAAAAAd/toji-toji-fushiguro.gif”>
+<h3 align="center">A beginner Developer from Kashmir!</h3>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/qVgrRXyFfeYAAAAd/toji-fushiguro-toji-zenin.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diaznakh&label=Profile%20views&color=0e75b6&style=flat" alt="diaznakh" /> </p>
