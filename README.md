@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sololevellink" target="blank"><img src="https://img.shields.io/twitter/follow/sololevellink?logo=twitter&style=for-the-badge" alt="sololevellink" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA/OS**
 
 - 👯 I’m looking to collaborate on **C projects**
 
