@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA/OS**
 
-- 👯 I’m looking to collaborate on **C projects**
+- 👯 I’m looking to collaborate on **C/C++/Rust projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diaznakh](https://github.com/diaznakh)
 
