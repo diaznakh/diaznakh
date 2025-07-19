@@ -1,7 +1,7 @@
 [![MasterHead](https://media.tenor.com/F8MAs3hQgrMAAAAC/yuta-okkotsu-yuta.gif)](https://github.com/diaznakh)
 <h1 align="center">Hi 👋, I'm Zaid Khan</h1>
 <h3 align="center">A beginner Developer from Kashmir!</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/smoke-anime-cowboy-bebop-gif-15630140">
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/DI7x6eNuoFwAAAAC/smoke-anime.gif">
 
 
 
