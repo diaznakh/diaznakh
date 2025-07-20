@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zaid Khan</h1>
+<h1 align="center">Hi , I'm Zaid Khan</h1>
 <h3 align="center">A beginner Developer from Kashmir!</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/DI7x6eNuoFwAAAAC/smoke-anime.gif">
 
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/sololevellink" target="blank"><img src="https://img.shields.io/twitter/follow/sololevellink?logo=twitter&style=for-the-badge" alt="sololevellink" /></a> </p>
 
-- 🌱 I’m currently learning **DSA/OS**
+- I’m currently learning **DSA/OS**
 
-- 👯 I’m looking to collaborate on **C/C++/Rust projects**
+- I’m looking to collaborate on **C/C++/Rust projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/diaznakh](https://github.com/diaznakh)
+- All of my projects are available at [https://github.com/diaznakh](https://github.com/diaznakh)
 
-- 📫 How to reach me **2023nitsgr014@nitsri.ac.in**
+- How to reach me **2023nitsgr014@nitsri.ac.in**
 
-- ⚡ Fun fact **I think <conio.h> is weird**
+- Fun fact **I think <conio.h> is weird**
 
 - Let's START!
 
