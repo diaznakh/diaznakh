@@ -8,15 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/sololevellink" target="blank"><img src="https://img.shields.io/twitter/follow/sololevellink?logo=twitter&style=for-the-badge" alt="sololevellink" /></a> </p>
 
-- I’m currently learning **DSA/OS**
+- I’m currently learning **DSA/OS/μP**
 
 - I’m looking to collaborate on **C/C++/Rust projects**
 
 - All of my projects are available at [https://github.com/diaznakh](https://github.com/diaznakh)
 
 - How to reach me **2023nitsgr014@nitsri.ac.in**
-
-- Fun fact **I think <conio.h> is weird**
 
 - Let's START!
 
